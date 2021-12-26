@@ -222,6 +222,10 @@ input, select, textarea {
 		position: fixed;
 		top: 0;
 	}
+	#bg {
+		background-size: 2250px auto;
+		width: 6750px;
+	}
 
 /* Overlay */
 
