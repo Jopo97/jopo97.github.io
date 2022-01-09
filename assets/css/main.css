@@ -3326,7 +3326,7 @@ input, select, textarea {
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 85vh;
+		min-height: 110vh;
 	}
 
 		#intro input, #intro select, #intro textarea {
